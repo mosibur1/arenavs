@@ -40,7 +40,7 @@ def log_message(wallet_num, message, color=Fore.WHITE):
     print(f"{Fore.WHITE}[{Fore.LIGHTBLACK_EX}{timestamp}{Fore.WHITE}] [{Fore.CYAN}#{wallet_num}{Fore.WHITE}] {color}{message}")
 
 def print_banner():
-    banner = f"""{Fore.YELLOW}Tool được phát triển bởi nhóm telegram: https://t.me/airdrophuntersieutoc{Style.RESET_ALL}
+    banner = f"""{Fore.YELLOW}Join Telegram Channel https://t.me/mrptechofficial{Style.RESET_ALL}
     """
     print(banner)
 
