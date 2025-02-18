@@ -29,7 +29,7 @@ TASKS = {
     1: {"name": "Follow Twitter", "link": "https://x.com/Arenaweb3", "reward": 30000},
     2: {"name": "Like & Retweet", "link": "https://x.com/Arenaweb3", "reward": 14000},
     3: {"name": "Invite Friends", "link": "https://x.com/Arenaweb3", "reward": 30000},
-    4: {"name": "Join Discord", "link": "https://discord.gg/rAEr8EKZEZ", "reward": 20000}
+    4: {"name": "Join Discord", "link": "https://discord.gg/arenavs", "reward": 20000}
 }
 
 def get_timestamp():
